@@ -1,1 +1,1 @@
-# Introduction-to-deep-learning_sju
+# image detection with YOLOv5
